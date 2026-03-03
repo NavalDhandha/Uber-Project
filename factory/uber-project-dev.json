@@ -1,0 +1,9 @@
+{
+	"name": "uber-project-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18a5b2b5-d763-44a5-a10c-e1f703a54879",
+		"tenantId": "03bef4a6-aeb0-4e42-a0e5-7222982bac79"
+	}
+}
